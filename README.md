@@ -1,4 +1,4 @@
-# Python必须要使用 ViewTurbo代理
+# Python 推荐使用 ViewTurbo代理
 
 在现代的开发环境中，代理服务已经成为了跨越网络障碍、提升开发效率的重要工具。而对于Python开发者而言，**ViewTurbo代理**无疑是最好的选择之一！
 
